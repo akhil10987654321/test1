@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+public class Main()  #from dev2
+{
+  public static void main(String[] args) #from dev2
+  {
+    System.out.println("Hello World file1"); 
+  } #from dev2
+ }
+=======
+public class Main() #from dev1
+{
+  public static void main(String[] args) #from dev1
+  {
+    System.out.println("Hello World file1" #from dev1);
+  }
+}
+>>>>>>> 189d21069b9fb91adeef6173bceec8671cc1ca34
