@@ -1,9 +1,9 @@
-public class Main() #from dev1
+ class hello #from dev2
 
 {
-  public static void main(String[] args) #from dev2
+  public static void main() #from dev2 
   {
-    System.out.println("Hello World file1"); 
+    System.out.println("hello");
   } #from dev2
  }
 
